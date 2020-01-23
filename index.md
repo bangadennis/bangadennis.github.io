@@ -5,7 +5,7 @@ layout: default
 ### Profile
 
 ```js
-// Javascript code with syntax highlighting.
+// Profile Check.
 var who = function whoIam(l) {
   echo "Dennis Banga";
   echo "Software Engineer"
