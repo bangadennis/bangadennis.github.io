@@ -6,10 +6,8 @@ layout: default
 
 ```js
 // Profile Check.
-var who = function whoIam(l) {
-  echo "Dennis Banga";
-  echo "Software Engineer"
-  echo "Exhaustive Soln"
+var who = function whoAmI() {
+  echo "Dennis Banga|Servant of Christ|Software Engineer| ML Enthusiast| Health Informatician";
   return true;
 }
 ```
